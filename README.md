@@ -1,5 +1,7 @@
 ![Banner](banner.png)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=35\&center=true\&vCenter=true\&width=800\&lines=Hi+👋+I'm+Vikas+Kannaujiya;Java+Full+Stack+Developer;Spring+Boot+|+React+|+MySQL+|+MongoDB;DSA+Learner)
+
 # Hi 👋, I'm Vikas Kannaujiya
 
 ### 🚀 Java Full Stack Developer
